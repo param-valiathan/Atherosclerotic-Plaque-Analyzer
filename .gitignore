@@ -1,0 +1,21 @@
+# PyInstaller build artifacts
+build/
+dist/
+
+# Compiled Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output from the app
+output/
+
+# Claude Code internal settings
+.claude/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Executables (distribute via GitHub Releases instead)
+*.exe
