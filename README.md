@@ -1,8 +1,8 @@
-# Miguelyser
+# Atherosclerotic Plaque Analyzer v2.0
 
-**Atherosclerotic Plaque Analyzer v2.0**
+**A desktop application for automated segmentation and quantification of atherosclerotic plaque deposits in Oil Red O-stained mouse aorta microscopy images.
+**
 
-A desktop application for automated segmentation and quantification of atherosclerotic plaque deposits in Oil Red O-stained mouse aorta microscopy images.
 
 ---
 
